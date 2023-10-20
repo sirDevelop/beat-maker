@@ -13,6 +13,10 @@ svg {
   pointer-events: none;
 }
 
+.sequencer {
+  background-color: orange;
+}
+
 .kick-pad,
 .snare-pad,
 .hihat-pad {
